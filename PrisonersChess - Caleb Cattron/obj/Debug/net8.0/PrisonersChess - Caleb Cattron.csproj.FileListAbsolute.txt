@@ -1,0 +1,14 @@
+C:\Users\Caleb\source\repos\PrisonersChess - Caleb Cattron\PrisonersChess - Caleb Cattron\bin\Debug\net8.0\PrisonersChess - Caleb Cattron.exe
+C:\Users\Caleb\source\repos\PrisonersChess - Caleb Cattron\PrisonersChess - Caleb Cattron\bin\Debug\net8.0\PrisonersChess - Caleb Cattron.deps.json
+C:\Users\Caleb\source\repos\PrisonersChess - Caleb Cattron\PrisonersChess - Caleb Cattron\bin\Debug\net8.0\PrisonersChess - Caleb Cattron.runtimeconfig.json
+C:\Users\Caleb\source\repos\PrisonersChess - Caleb Cattron\PrisonersChess - Caleb Cattron\bin\Debug\net8.0\PrisonersChess - Caleb Cattron.dll
+C:\Users\Caleb\source\repos\PrisonersChess - Caleb Cattron\PrisonersChess - Caleb Cattron\bin\Debug\net8.0\PrisonersChess - Caleb Cattron.pdb
+C:\Users\Caleb\source\repos\PrisonersChess - Caleb Cattron\PrisonersChess - Caleb Cattron\obj\Debug\net8.0\PrisonersChess - Caleb Cattron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caleb\source\repos\PrisonersChess - Caleb Cattron\PrisonersChess - Caleb Cattron\obj\Debug\net8.0\PrisonersChess - Caleb Cattron.AssemblyInfoInputs.cache
+C:\Users\Caleb\source\repos\PrisonersChess - Caleb Cattron\PrisonersChess - Caleb Cattron\obj\Debug\net8.0\PrisonersChess - Caleb Cattron.AssemblyInfo.cs
+C:\Users\Caleb\source\repos\PrisonersChess - Caleb Cattron\PrisonersChess - Caleb Cattron\obj\Debug\net8.0\PrisonersChess - Caleb Cattron.csproj.CoreCompileInputs.cache
+C:\Users\Caleb\source\repos\PrisonersChess - Caleb Cattron\PrisonersChess - Caleb Cattron\obj\Debug\net8.0\PrisonersChess - Caleb Cattron.dll
+C:\Users\Caleb\source\repos\PrisonersChess - Caleb Cattron\PrisonersChess - Caleb Cattron\obj\Debug\net8.0\refint\PrisonersChess - Caleb Cattron.dll
+C:\Users\Caleb\source\repos\PrisonersChess - Caleb Cattron\PrisonersChess - Caleb Cattron\obj\Debug\net8.0\PrisonersChess - Caleb Cattron.pdb
+C:\Users\Caleb\source\repos\PrisonersChess - Caleb Cattron\PrisonersChess - Caleb Cattron\obj\Debug\net8.0\PrisonersChess - Caleb Cattron.genruntimeconfig.cache
+C:\Users\Caleb\source\repos\PrisonersChess - Caleb Cattron\PrisonersChess - Caleb Cattron\obj\Debug\net8.0\ref\PrisonersChess - Caleb Cattron.dll
